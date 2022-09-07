@@ -1,1 +1,1 @@
-# first Spring boot prject for REST API
+# First Spring boot project for REST API
